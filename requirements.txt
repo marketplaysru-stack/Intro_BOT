@@ -1,0 +1,5 @@
+vk-api
+requests
+python-dotenv
+Pillow
+schedule
